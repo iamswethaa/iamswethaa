@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hey there 👋
 
-Hey there! I’m Swetha, a Software Engineer with the creative approach to problem-solving and loves to combine technical expertise with a strong sense of design. 
+I’m Swetha, a Software Engineer with the creative approach to problem-solving and loves to combine technical expertise with a strong sense of design. 
 
 ### Reach me via : [LinkedIn](https://www.linkedin.com/in/iamswethaa)
 

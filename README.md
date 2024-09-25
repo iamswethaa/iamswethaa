@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Hey there! I’m Swetha, a Software Engineer with the creative approach to problem-solving and loves to combine technical expertise with a strong sense of design. 
+
+### Reach me via : [LinkedIn](https://www.linkedin.com/in/iamswethaa)
+
 <!--
 **iamswethaa/iamswethaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I’m Swetha, Software Engineer and UI/UX Designer with the creative approach to problem-solving and loves to combine technical expertise with a strong sense of design. 
+This is Swetha. I'm a Software Engineer and UI/UX Designer. 
 
 ### Reach me via : [LinkedIn](https://www.linkedin.com/in/iamswethaa)⚡
 

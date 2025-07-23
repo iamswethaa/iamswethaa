@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-This is Swetha. I'm a Software Engineer and UI/UX Designer. 
+This is Swetha. I'm a Software Engineer. I Love Building Applications that Solves the Problem.
 
 ### Reach me via : [LinkedIn](https://www.linkedin.com/in/iamswethaa)⚡
 
